@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{D9730336-BA76-4466-BC7D-989617F8D7DB}|https">
+  <MonoDevelop.Ide.ItemProperties.EventTicketing PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventTicketing/Services/AdminServices.cs">
+    <Files>
+      <File FileName="EventTicketing/Services/AdminServices.cs" Line="62" Column="33" />
+      <File FileName="EventTicketing/Controllers/AdminController.cs" Line="18" Column="46" />
+      <File FileName="EventTicketing/Dto/EventDto.cs" Line="9" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EventTicketing" expanded="True">
+            <Node name="EventTicketing" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dto" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="AdminServices.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
